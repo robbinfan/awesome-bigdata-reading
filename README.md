@@ -5,7 +5,7 @@
 - [SRE](#sre)
 - [Storage](#storage)
 - [Information Retrieval](#information-retrieval)
-- [Container-as-a-Service)(#container-as-a-service)
+- [Container-as-a-Service](#container-as-a-service)
 
 ### Cpp Best Practice
 * [gc allocator](http://cplusplus.wikidot.com/cn:memory-management-innovation) - stdext gc allocator.
