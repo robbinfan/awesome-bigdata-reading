@@ -22,3 +22,4 @@
 
 ### Container as a Service
 * [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) Lessons learned from three container-management systems over a decade
+* [Torca](http://djt.qq.com/article/view/329) - Tencent's Borg
