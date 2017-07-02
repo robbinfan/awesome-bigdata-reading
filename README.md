@@ -6,7 +6,7 @@
 - [Storage](#storage)
 - [Information Retrieval](#information-retrieval)
 - [Container-as-a-Service](#container-as-a-service)
-- [Tools](#tools)
+- [Kubernetes](#kubernetes)
 
 ### Cpp Best Practice
 * [gc allocator](http://cplusplus.wikidot.com/cn:memory-management-innovation) - stdext gc allocator.
@@ -26,5 +26,5 @@
 * [Torca](http://djt.qq.com/article/view/329) - Tencent's Borg
 
 
-### Tools
-* [JsonLint](https://jsonlint.com)
+### Kubernetes
+* [Netease K8s Practice](https://www.kubernetes.org.cn/2156.html)
