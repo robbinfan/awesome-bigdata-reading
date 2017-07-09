@@ -27,4 +27,4 @@
 * [Netease K8s Practice](https://www.kubernetes.org.cn/2156.html)
 
 ### Online Service
-* [True Zero Downtime HAProxy Reloads](https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html) - use qdisk to delay sync response
+* [True Zero Downtime HAProxy Reloads](https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html) - use qdisc to delay sync response
