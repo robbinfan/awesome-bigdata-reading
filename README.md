@@ -25,6 +25,8 @@
 * [Borg, Omega, and Kubernetes](http://queue.acm.org/detail.cfm?id=2898444) Lessons learned from three container-management systems over a decade
 * [Torca](http://djt.qq.com/article/view/329) - Tencent's Borg
 * [Netease K8s Practice](https://www.kubernetes.org.cn/2156.html)
+* [How Linux Containers Evolved](https://opensource.com/article/17/7/how-linux-containers-evolved)
 
 ### Online Service
 * [True Zero Downtime HAProxy Reloads](https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html) - use qdisc to delay sync response
+
