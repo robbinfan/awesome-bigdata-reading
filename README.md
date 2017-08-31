@@ -7,6 +7,7 @@
 - [Information Retrieval](#information-retrieval)
 - [Container-as-a-Service](#container-as-a-service)
 - [Online Service](#online-service)
+- [Safe](#safe)
 
 ### Cpp Best Practice
 * [gc allocator](http://cplusplus.wikidot.com/cn:memory-management-innovation) - stdext gc allocator.
@@ -30,3 +31,6 @@
 ### Online Service
 * [True Zero Downtime HAProxy Reloads](https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html) - use qdisc to delay sync response
 * [HAProxy seamless reloads](https://www.haproxy.com/blog/truly-seamless-reloads-with-haproxy-no-more-hacks/)
+
+### Safe
+* [Cloud Safe and Box](http://blog.nsfocus.net/cloud-safe-box)
