@@ -8,6 +8,7 @@
 - [Container-as-a-Service](#container-as-a-service)
 - [Online Service](#online-service)
 - [Safe](#safe)
+- [Network](#network)
 
 ### Cpp Best Practice
 * [gc allocator](http://cplusplus.wikidot.com/cn:memory-management-innovation) - stdext gc allocator.
@@ -34,3 +35,6 @@
 
 ### Safe
 * [Cloud Safe and Box](http://blog.nsfocus.net/cloud-safe-box)
+
+### Network
+* [Pod-to-self networking require hairpin mode](https://github.com/kubernetes/kubernetes/issues/13375)
