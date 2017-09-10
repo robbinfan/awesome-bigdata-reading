@@ -38,3 +38,5 @@
 
 ### Network
 * [Pod-to-self networking require hairpin mode](https://github.com/kubernetes/kubernetes/issues/13375)
+* [Network Requirement in PingAnCloud](http://blog.shurenyun.com/112-shurenyun-huodong/)
+
