@@ -28,6 +28,7 @@
 * [Torca](http://djt.qq.com/article/view/329) - Tencent's Borg
 * [Netease K8s Practice](https://www.kubernetes.org.cn/2156.html)
 * [How Linux Containers Evolved](https://opensource.com/article/17/7/how-linux-containers-evolved)
+* [Padis](http://blog.csdn.net/u010646653/article/details/53099016)
 
 ### Online Service
 * [True Zero Downtime HAProxy Reloads](https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html) - use qdisc to delay sync response
@@ -39,4 +40,5 @@
 ### Network
 * [Pod-to-self networking require hairpin mode](https://github.com/kubernetes/kubernetes/issues/13375)
 * [Network Requirement in PingAnCloud](http://blog.shurenyun.com/112-shurenyun-huodong/)
+
 
