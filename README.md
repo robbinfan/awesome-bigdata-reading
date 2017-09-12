@@ -40,5 +40,6 @@
 ### Network
 * [Pod-to-self networking require hairpin mode](https://github.com/kubernetes/kubernetes/issues/13375)
 * [Network Requirement in PingAnCloud](http://blog.shurenyun.com/112-shurenyun-huodong/)
+* [Comparision of K8s Network Solution](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 
 
