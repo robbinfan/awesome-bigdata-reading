@@ -15,6 +15,7 @@
 
 ### SRE
 * [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
+* [Prometheus Alert Delay](https://pracucci.com/prometheus-understanding-the-delays-on-alerting.html)
 
 ### Storage
 * [Caffeine](https://github.com/ben-manes/caffeine) - w-tinylfu
