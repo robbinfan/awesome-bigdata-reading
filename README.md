@@ -1,4 +1,4 @@
-# awesome-bigdata-reading
+# awesome-system-reading
 
 ## Projects
 - [C/C++ Best Practice](#cpp-best-practice)
