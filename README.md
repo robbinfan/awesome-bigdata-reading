@@ -1,7 +1,8 @@
 # awesome-system-reading
 
 ## Projects
-- [C/C++ Best Practice](#cpp-best-practice)
+- [C/C++](#cpp)
+- [Java](#java)
 - [SRE](#sre)
 - [Storage](#storage)
 - [Information Retrieval](#information-retrieval)
@@ -9,9 +10,16 @@
 - [Online Service](#online-service)
 - [Safe](#safe)
 - [Network](#network)
+- [Paper](#paper)
 
-### Cpp Best Practice
+### Cpp
 * [gc allocator](http://cplusplus.wikidot.com/cn:memory-management-innovation) - stdext gc allocator.
+* [large scale design](http://www.cs.unc.edu/~stotts/COMP204/lakos/) 
+* [FastFormat](http://www.fastformat.org/performance.html)
+
+
+### Java
+* [CRC32 & adler32](http://java-performance.info/java-crc32-and-adler32/)
 
 ### SRE
 * [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
@@ -45,4 +53,5 @@
 * [Comparision of K8s Network Solution](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 * [Virtualization Network](http://xiaoli110.blog.51cto.com/1724/1558984)
 
-
+### Paper
+* [Alexander A. Stepanov](http://stepanovpapers.com/)
